@@ -32,12 +32,12 @@ a:link, a:visited, a:hover, a:focus{text-decoration: none; color: #000000;}
 /* Navbar */
 
 /* Link Color */
-.navbar-inverse { border-color: #1ee228}
-.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus { color: #25e21e}
-.navbar-inverse .navbar-nav>.active>a,.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus { color: #2ee21e}
-.navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus { color: #35e21e}
-.dropdown-menu>li>a { color: #4ce21e}
-.navbar-inverse .navbar-nav>.dropdown>a:hover .caret { border-top-color: #35e21e}
+.navbar-inverse { border-color: #f3f8f4}
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus { color: rgb(6, 145, 135)}
+.navbar-inverse .navbar-nav>.active>a,.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus { color: #f5fcf5}
+.navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus { color: #f2f5f2}
+.dropdown-menu>li>a { color: #f3f5f3}
+.navbar-inverse .navbar-nav>.dropdown>a:hover .caret { border-top-color: #f2f7f1}
 
 .navbar-toggle {
 	border: transparent;
@@ -60,7 +60,7 @@ a:link, a:visited, a:hover, a:focus{text-decoration: none; color: #000000;}
 
 /* Titles & Color */
 .section-title h1 span{
-	background-color: #2ee21e;
+	background-color: #797878;
 }
 
 
@@ -141,7 +141,7 @@ a.btn:hover {
 }
 
 .hovicon.effect-1 {
-	background: #25e21e;
+	background: #016970;
 }
 
 .hovicon.effect-1:after {
@@ -176,7 +176,7 @@ cite {
 
 .main-color
 {
-	color: #25e21e;
+	color: #eff1ef;
 }
 
 .white-color
@@ -189,7 +189,7 @@ cite {
 
 /* Facts */
 .number p:first-letter {
-  color: #25e21e;
+  color: #f9faf9;
 }
 /* End Facts */
 
@@ -223,12 +223,12 @@ cite {
 
 /* Works */
 #filters li span.active,#filters li span:hover {
-	background: #25e21e;
+	background: #069187;
 }
 
 #filters li span {
-	border: 1px solid #25e21e;
-	color: #25e21e;
+	border: 1px solid #fdfdfd;
+	color: #fdfdfd;
 }
 
 .project-details h3 {
@@ -285,16 +285,16 @@ span.price {
 
 /* Clients */
 .clients h5 {
-	color: #25e21e;
+	color: #f1f3f1;
 }
 
 .carousel-indicators .active {
-  background-color: #25e21e;
-  border-color: #25e21e;
+  background-color: #f4f8f3;
+  border-color: #f4f8f3;
 }
 
 .carousel-indicators li {
-  border-color: #25e21e;
+  border-color: #f9fcf9;
 }
 /* End Clients */
 
@@ -362,12 +362,12 @@ span.price {
 }
 
 .bottom-social-icons li a i{
-	background-color: #25e21e;
-	border: 1px solid #25e21e;
+	background-color: #069187;
+	border: 1px solid #069187;
 }
 
 .bottom-social-icons li a i:hover{
-	color: #25e21e;
+	color: #ffffff;
 }
 
 /* End Footer */
